@@ -1,0 +1,7 @@
+*.o
+image.rgba
+images/*
+pent.png
+squaresandpentsandtris.png
+*.swp
+*.DS_Store
