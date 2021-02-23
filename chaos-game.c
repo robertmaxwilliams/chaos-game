@@ -5,7 +5,6 @@
 
 #include "types.h"
 #include "backend.h"
-#include "mers.h"
 
 // Note that "chao" is pronounced "cow" and referes to one fractal shape.
 // "chaos" is plural of chao and is pronounced "cows".
